@@ -20,6 +20,14 @@
 .nav-heading h1{
     text-align: right;
 }
+.nav-logo img{
+    text-align: center;
+    height: 80px;
+    width: 73px;
+    margin-left:50px;
+    margin-bottom:10px;
+
+}
 .nav-menu{
     flex-direction: row;
     justify-content: flex-end;
