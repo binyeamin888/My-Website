@@ -44,12 +44,10 @@ p{
     text-align: center;
 }
 .nav-logo img{
-    text-align: left;
+    text-align: center;
     height: 80px;
     width: 73px;
-    margin-left: 50px;
-    margin-bottom: 10px;
-   
+
 }
 .navbar::after{
     content: '';
